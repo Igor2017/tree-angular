@@ -23,9 +23,8 @@
       "dom"
     ],
     "paths": {
-      "tree-angular-component": [
-        "dist/tree-angular-component"
-      ]
+      "tree-angular-component": ["./dist/tree-angular-component"],
+      "tree-angular-component/*": ["./dist/tree-angular-component/*"]
     }
   },
   "angularCompilerOptions": {
