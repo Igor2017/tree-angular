@@ -1,10 +1,17 @@
 # TreeAngularComponent
 
+## Для чего этот компонент?
+
+Allows you to use [tree-component](https://github.com/plantain-00/tree-component) in Angular apps.
+I consider this component the best tree for Angular at the moment.
+
 ## :clapper: Usage
 
 Installation:
 
 `npm i @igor2017/tree-angular-component`
+
+the "tree-component" package will be installed automatically
 
 ```typescript
 import { NgModule } from '@angular/core';
@@ -33,3 +40,5 @@ export class AppModule { }
     (change)="change($event)">
 </tree>
 ```
+
+Documentation and usage examples here: [https://github.com/plantain-00/tree-component](Documentation and usage examples here: https://github.com/plantain-00/tree-component).
