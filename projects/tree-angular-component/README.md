@@ -1,6 +1,6 @@
 # TreeAngularComponent
 
-## Для чего этот компонент?
+## What is this component for?
 
 Allows you to use [tree-component](https://github.com/plantain-00/tree-component) in Angular apps.
 I consider this component the best tree for Angular at the moment.
