@@ -1,6 +1,6 @@
 {
   "name": "@igor2017/tree-angular-component",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "description": "Declarative Charting Framework for Angular",
   "repository": {
     "type": "git",
@@ -13,8 +13,8 @@
   },
   "homepage": "https://github.com/Igor2017/tree-angular#readme",
   "peerDependencies": {
-    "@angular/common": "^14.2.0",
-    "@angular/core": "^14.2.0"
+    "@angular/common": "^15.1.2",
+    "@angular/core": "^15.1.2"
   },
   "dependencies": {
     "tree-component": "6.0.2",
