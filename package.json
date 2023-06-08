@@ -23,7 +23,7 @@
     "@angular/router": "15.1.2",
     "rxjs": "7.8.0",
     "tree-component": "^6.0.2",
-    "tslib": "2.5.0",
+    "tslib": "2.5.1",
     "zone.js": "0.12.0"
   },
   "devDependencies": {
